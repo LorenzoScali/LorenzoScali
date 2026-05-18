@@ -1,3 +1,5 @@
+Passionate IT professional, my job is related to building and maintaining IT infrastructures. Skilled in network and system administration, storage management, virtualization and automation tools. Currently studying Cybersecurity in Milan.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-scali-8543932b4)
 
